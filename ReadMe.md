@@ -14,6 +14,17 @@ MediScan AI is an innovative web-based application that integrates multiple deep
 - 🫁 **Pneumonia Detection** - Chest X-ray analysis for lung infections
 - ❤️ **Heart Disease Prediction** - Cardiovascular risk assessment
 
+## Demo 
+Video Demo (Watch this) - https://drive.google.com/file/d/1v5stMRkBzpqc0mnqDkDXjfaOMKHAF4El/view?usp=sharing 
+<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/63dd6b2b-bebc-41a4-803e-20ff0fd2a12d" />
+<img width="1908" height="923" alt="image" src="https://github.com/user-attachments/assets/ca334c78-9c7b-4928-89cc-4d820228e0b5" />
+<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/a24b6115-206d-4d15-9307-f926cf179c43" />
+<img width="1628" height="285" alt="image" src="https://github.com/user-attachments/assets/88eaecac-d471-490b-939e-5c9590726b1f" />
+<img width="1617" height="487" alt="image" src="https://github.com/user-attachments/assets/2883714b-ae20-4e6b-8b4b-dc5a07d6b965" />
+
+
+
+
 ## ✨ Key Features
 
 ###  Advanced AI Diagnostics
