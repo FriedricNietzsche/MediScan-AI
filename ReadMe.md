@@ -1,8 +1,8 @@
-# MediScan AI 🏥
+# MediScan AI 
 
 A comprehensive AI-powered medical diagnostic platform that leverages state-of-the-art machine learning models to assist in the early detection and analysis of various medical conditions through image and data analysis.
 
-## 🌟 Overview
+##  Overview
 
 MediScan AI is an innovative web-based application that integrates multiple deep learning and machine learning models to provide diagnostic assistance for seven major medical conditions:
 
@@ -16,22 +16,22 @@ MediScan AI is an innovative web-based application that integrates multiple deep
 
 ## ✨ Key Features
 
-### 🔬 Advanced AI Diagnostics
+###  Advanced AI Diagnostics
 - **Multi-Modal Analysis**: Supports both image-based (X-rays, MRIs) and parameter-based diagnostics
 - **Real-Time Predictions**: Instant results with confidence scores
 - **User-Friendly Interface**: Intuitive web interface accessible to healthcare professionals and researchers
 
-### 📊 Comprehensive History Tracking
+###  Comprehensive History Tracking
 - **Detection History**: Complete log of all diagnostic sessions
 - **Data Persistence**: CSV-based storage for analysis and auditing
 - **Export Capabilities**: Easy data export for further research
 
-### 🛡️ Robust Architecture
+###  Robust Architecture
 - **Modular Design**: Clean separation of models and web interface
 - **Error Handling**: Graceful degradation when models are unavailable
 - **Scalable Framework**: Easy to extend with new diagnostic models
 
-### 📱 Web Interface
+###  Web Interface
 - **Responsive Design**: Works seamlessly across devices
 - **Bootstrap Framework**: Modern, professional UI
 - **Interactive Forms**: Guided input collection for accurate diagnostics
@@ -57,7 +57,7 @@ MediScan AI is an innovative web-based application that integrates multiple deep
 - **Pandas**: Data manipulation (implied through sklearn)
 - **Joblib**: Model serialization
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 ### Deep Learning Models (CNN-based)
 
@@ -110,7 +110,7 @@ MediScan AI is an innovative web-based application that integrates multiple deep
 - **Output**: Binary classification (Disease/No Disease)
 - **Technique**: Traditional supervised learning
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```
 MediScan AI/
@@ -171,7 +171,7 @@ flask run
 2. **Access the Application**
 Open your browser and navigate to: `http://127.0.0.1:5000`
 
-## 📋 Usage Guide
+##  Usage Guide
 
 ### For Image-Based Diagnostics
 1. Navigate to the desired diagnostic page (COVID, Brain Tumor, etc.)
@@ -203,7 +203,7 @@ Open your browser and navigate to: `http://127.0.0.1:5000`
 | Diabetes | Random Forest | ~85% | Physiological Data | 2 (Diabetic/Normal) |
 | Heart Disease | ML Model | ~83% | Clinical Data | 2 (Disease/No Disease) |
 
-## 🔧 Advanced Configuration
+##  Advanced Configuration
 
 ### Model Loading
 The application automatically loads all models on startup. If a model fails to load, the corresponding diagnostic feature becomes unavailable with appropriate user messaging.
@@ -218,7 +218,7 @@ The application automatically loads all models on startup. If a model fails to l
 - **Invalid Input**: Form validation and error messages
 - **File Upload**: Secure file handling with type validation
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
 - **Model Explainability**: Integration of SHAP/LIME for prediction explanations
@@ -250,11 +250,11 @@ We welcome contributions! Please follow these steps:
 - Update tests for new features
 - Ensure models are version-controlled appropriately
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 **MediScan AI is a research and educational tool, not a clinical diagnostic device.**
 
@@ -264,14 +264,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Performance may vary with real-world data
 - Regular model updates and validation recommended
 
-## 📞 Support
+##  Support
 
 For questions, issues, or contributions:
 - Open an issue on GitHub
 - Contact the development team
 - Check the documentation for common solutions
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Medical imaging datasets from various public repositories
 - Open-source ML frameworks and libraries
